@@ -1,0 +1,411 @@
+Average Score: 44.42
+
+Bubble Sorted List:
+
+Name                 | Score
+------------------------------
+Sangay wanggyel_94   | 0    
+Tshering Pelden_51   | 2    
+Pema Namgyel_59      | 2    
+Kinley Yangden_72    | 2    
+Dawa Yangden_52      | 4    
+Lhatsho Rai_22       | 5    
+Sonam Dolma_100      | 7    
+Aum Penjor_88        | 9    
+Namgay Rai_109       | 11   
+Lhatsho Namgyel_6    | 12   
+Palden Zangpo_19     | 12   
+Ap Rangdrel_81       | 12   
+Dawa Norbu_105       | 12   
+Namgay Dolma_80      | 13   
+Dechen Namgyel_87    | 13   
+Chengay Dolma_13     | 14   
+Tashi Wangzom_40     | 14   
+Palden Zangpo_89     | 14   
+Kinley Yangchen_98   | 14   
+Legphel Namgyel_23   | 15   
+Tshering Choden_30   | 15   
+Palden Zangpo_74     | 15   
+Ap Jorden_112        | 15   
+Nidup Pem_55         | 17   
+Dechen Dupchu_50     | 18   
+Legphel wanggyel_78  | 18   
+Bishnu Norbu_43      | 19   
+Namgay Choden_76     | 19   
+Karma Wangchuk_107   | 19   
+Ap Zangpo_54         | 21   
+Ganapati Yangden_8   | 23   
+Pema Wangzom_111     | 24   
+Tandin Namgay_118    | 24   
+Ap Wangzom_7         | 25   
+Tashi Tshomo_17      | 25   
+Ap Moenlam_21        | 25   
+Namgay Dorji_38      | 26   
+Ap Tobgay_61         | 26   
+Sonam Jorden_106     | 26   
+Palden Norbu_47      | 27   
+Namgay Tobgay_70     | 27   
+Tashi Penjor_20      | 28   
+Sonam Choden_69      | 28   
+Dawa Norbu_71        | 29   
+Sangay Dorji_14      | 30   
+Legphel Phuntsho_57  | 30   
+Sonam Penjor_9       | 32   
+Karma Tobgay_27      | 32   
+Nuchu Dupchu_85      | 33   
+Tashi Wangda_108     | 33   
+Ganapati Norbu_3     | 34   
+Tandin Subedi_12     | 34   
+Nuchu Rai_82         | 34   
+Sangay Wangzom_26    | 35   
+Tandin Yangden_77    | 35   
+Rickey Tshomo_101    | 35   
+Sonam Norbu_16       | 36   
+Jamyang Tshomo_32    | 39   
+Ap Jorden_86         | 42   
+Dechen Yangchen_33   | 43   
+Darshan Pelden_35    | 43   
+Chencho wanggyel_103 | 43   
+Nuchu Jorden_110     | 43   
+Jamyang Wangchuk_113 | 43   
+Aum Tshomo_2         | 44   
+Palden Dupchu_93     | 44   
+Chengay Moenlam_49   | 46   
+Namgay Norbu_18      | 47   
+Namgay Dupchu_84     | 47   
+Aum Jorden_116       | 47   
+Lhatsho wanggyel_63  | 48   
+Dawa Rai_68          | 50   
+Pema Phuntsho_115    | 50   
+Dechen Dolma_97      | 52   
+Jamyang Namgyel_1    | 53   
+Jamyang Dupchu_15    | 53   
+Aum Dolma_62         | 53   
+Dechen Dorji_64      | 53   
+Sonam Namgyel_37     | 56   
+Pema Pem_45          | 56   
+Rickey Pem_91        | 56   
+Tandin Yangchen_29   | 57   
+Karma Dolma_95       | 58   
+Nuchu Rangdrel_60    | 61   
+Jamyang Dupchu_104   | 61   
+Sonam Penjor_41      | 62   
+Kinley Wangchuk_117  | 65   
+Legphel Wangchuk_4   | 66   
+Chencho Yangchen_66  | 66   
+Pema Dolma_73        | 67   
+Dawa wanggyel_92     | 67   
+Aum Phuntsho_34      | 68   
+Chencho Wangda_90    | 68   
+Karma wanggyel_79    | 72   
+Pema Yangden_39      | 73   
+Kinley Zangpo_58     | 75   
+Aum Dorji_67         | 75   
+Tshering Subedi_10   | 76   
+Jamyang Pem_44       | 76   
+Sonam Tobgay_96      | 76   
+Tshering Subedi_102  | 77   
+Tshering Pelden_75   | 78   
+Aum Wangzom_114      | 78   
+Bishnu Yangchen_99   | 80   
+Dechen Namgyel_120   | 80   
+Namgay Moenlam_24    | 81   
+Tashi Tobgay_48      | 81   
+Rickey Wangzom_119   | 81   
+Pema Tshomo_31       | 83   
+Namgay Subedi_36     | 85   
+Tshering Pelden_83   | 86   
+Nuchu Pem_25         | 87   
+Aum wanggyel_56      | 87   
+Palden Jorden_42     | 93   
+Tashi Pelden_65      | 93   
+Pema Subedi_11       | 95   
+Sonam Zangpo_53      | 95   
+Sonam Pelden_5       | 96   
+Chencho Dolma_46     | 96   
+Sonam Rai_28         | 99   
+
+Insertion Sorted List:
+
+Name                 | Score
+------------------------------
+Sangay wanggyel_94   | 0    
+Tshering Pelden_51   | 2    
+Pema Namgyel_59      | 2    
+Kinley Yangden_72    | 2    
+Dawa Yangden_52      | 4    
+Lhatsho Rai_22       | 5    
+Sonam Dolma_100      | 7    
+Aum Penjor_88        | 9    
+Namgay Rai_109       | 11   
+Lhatsho Namgyel_6    | 12   
+Palden Zangpo_19     | 12   
+Ap Rangdrel_81       | 12   
+Dawa Norbu_105       | 12   
+Namgay Dolma_80      | 13   
+Dechen Namgyel_87    | 13   
+Chengay Dolma_13     | 14   
+Tashi Wangzom_40     | 14   
+Palden Zangpo_89     | 14   
+Kinley Yangchen_98   | 14   
+Legphel Namgyel_23   | 15   
+Tshering Choden_30   | 15   
+Palden Zangpo_74     | 15   
+Ap Jorden_112        | 15   
+Nidup Pem_55         | 17   
+Dechen Dupchu_50     | 18   
+Legphel wanggyel_78  | 18   
+Bishnu Norbu_43      | 19   
+Namgay Choden_76     | 19   
+Karma Wangchuk_107   | 19   
+Ap Zangpo_54         | 21   
+Ganapati Yangden_8   | 23   
+Pema Wangzom_111     | 24   
+Tandin Namgay_118    | 24   
+Ap Wangzom_7         | 25   
+Tashi Tshomo_17      | 25   
+Ap Moenlam_21        | 25   
+Namgay Dorji_38      | 26   
+Ap Tobgay_61         | 26   
+Sonam Jorden_106     | 26   
+Palden Norbu_47      | 27   
+Namgay Tobgay_70     | 27   
+Tashi Penjor_20      | 28   
+Sonam Choden_69      | 28   
+Dawa Norbu_71        | 29   
+Sangay Dorji_14      | 30   
+Legphel Phuntsho_57  | 30   
+Sonam Penjor_9       | 32   
+Karma Tobgay_27      | 32   
+Nuchu Dupchu_85      | 33   
+Tashi Wangda_108     | 33   
+Ganapati Norbu_3     | 34   
+Tandin Subedi_12     | 34   
+Nuchu Rai_82         | 34   
+Sangay Wangzom_26    | 35   
+Tandin Yangden_77    | 35   
+Rickey Tshomo_101    | 35   
+Sonam Norbu_16       | 36   
+Jamyang Tshomo_32    | 39   
+Ap Jorden_86         | 42   
+Dechen Yangchen_33   | 43   
+Darshan Pelden_35    | 43   
+Chencho wanggyel_103 | 43   
+Nuchu Jorden_110     | 43   
+Jamyang Wangchuk_113 | 43   
+Aum Tshomo_2         | 44   
+Palden Dupchu_93     | 44   
+Chengay Moenlam_49   | 46   
+Namgay Norbu_18      | 47   
+Namgay Dupchu_84     | 47   
+Aum Jorden_116       | 47   
+Lhatsho wanggyel_63  | 48   
+Dawa Rai_68          | 50   
+Pema Phuntsho_115    | 50   
+Dechen Dolma_97      | 52   
+Jamyang Namgyel_1    | 53   
+Jamyang Dupchu_15    | 53   
+Aum Dolma_62         | 53   
+Dechen Dorji_64      | 53   
+Sonam Namgyel_37     | 56   
+Pema Pem_45          | 56   
+Rickey Pem_91        | 56   
+Tandin Yangchen_29   | 57   
+Karma Dolma_95       | 58   
+Nuchu Rangdrel_60    | 61   
+Jamyang Dupchu_104   | 61   
+Sonam Penjor_41      | 62   
+Kinley Wangchuk_117  | 65   
+Legphel Wangchuk_4   | 66   
+Chencho Yangchen_66  | 66   
+Pema Dolma_73        | 67   
+Dawa wanggyel_92     | 67   
+Aum Phuntsho_34      | 68   
+Chencho Wangda_90    | 68   
+Karma wanggyel_79    | 72   
+Pema Yangden_39      | 73   
+Kinley Zangpo_58     | 75   
+Aum Dorji_67         | 75   
+Tshering Subedi_10   | 76   
+Jamyang Pem_44       | 76   
+Sonam Tobgay_96      | 76   
+Tshering Subedi_102  | 77   
+Tshering Pelden_75   | 78   
+Aum Wangzom_114      | 78   
+Bishnu Yangchen_99   | 80   
+Dechen Namgyel_120   | 80   
+Namgay Moenlam_24    | 81   
+Tashi Tobgay_48      | 81   
+Rickey Wangzom_119   | 81   
+Pema Tshomo_31       | 83   
+Namgay Subedi_36     | 85   
+Tshering Pelden_83   | 86   
+Nuchu Pem_25         | 87   
+Aum wanggyel_56      | 87   
+Palden Jorden_42     | 93   
+Tashi Pelden_65      | 93   
+Pema Subedi_11       | 95   
+Sonam Zangpo_53      | 95   
+Sonam Pelden_5       | 96   
+Chencho Dolma_46     | 96   
+Sonam Rai_28         | 99   
+
+
+Students Scoring Above Average:
+Above Average Students
+Name                 | Score
+------------------------------
+Jamyang Namgyel_1    | 53   
+Legphel Wangchuk_4   | 66   
+Sonam Pelden_5       | 96   
+Tshering Subedi_10   | 76   
+Pema Subedi_11       | 95   
+Jamyang Dupchu_15    | 53   
+Namgay Norbu_18      | 47   
+Namgay Moenlam_24    | 81   
+Nuchu Pem_25         | 87   
+Sonam Rai_28         | 99   
+Tandin Yangchen_29   | 57   
+Pema Tshomo_31       | 83   
+Aum Phuntsho_34      | 68   
+Namgay Subedi_36     | 85   
+Sonam Namgyel_37     | 56   
+Pema Yangden_39      | 73   
+Sonam Penjor_41      | 62   
+Palden Jorden_42     | 93   
+Jamyang Pem_44       | 76   
+Pema Pem_45          | 56   
+Chencho Dolma_46     | 96   
+Tashi Tobgay_48      | 81   
+Chengay Moenlam_49   | 46   
+Sonam Zangpo_53      | 95   
+Aum wanggyel_56      | 87   
+Kinley Zangpo_58     | 75   
+Nuchu Rangdrel_60    | 61   
+Aum Dolma_62         | 53   
+Lhatsho wanggyel_63  | 48   
+Dechen Dorji_64      | 53   
+Tashi Pelden_65      | 93   
+Chencho Yangchen_66  | 66   
+Aum Dorji_67         | 75   
+Dawa Rai_68          | 50   
+Pema Dolma_73        | 67   
+Tshering Pelden_75   | 78   
+Karma wanggyel_79    | 72   
+Tshering Pelden_83   | 86   
+Namgay Dupchu_84     | 47   
+Chencho Wangda_90    | 68   
+Rickey Pem_91        | 56   
+Dawa wanggyel_92     | 67   
+Karma Dolma_95       | 58   
+Sonam Tobgay_96      | 76   
+Dechen Dolma_97      | 52   
+Bishnu Yangchen_99   | 80   
+Tshering Subedi_102  | 77   
+Jamyang Dupchu_104   | 61   
+Aum Wangzom_114      | 78   
+Pema Phuntsho_115    | 50   
+Aum Jorden_116       | 47   
+Kinley Wangchuk_117  | 65   
+Rickey Wangzom_119   | 81   
+Dechen Namgyel_120   | 80   
+
+Students Scoring Below Average:
+Below Average Students
+Name                 | Score
+------------------------------
+Aum Tshomo_2         | 44   
+Ganapati Norbu_3     | 34   
+Lhatsho Namgyel_6    | 12   
+Ap Wangzom_7         | 25   
+Ganapati Yangden_8   | 23   
+Sonam Penjor_9       | 32   
+Tandin Subedi_12     | 34   
+Chengay Dolma_13     | 14   
+Sangay Dorji_14      | 30   
+Sonam Norbu_16       | 36   
+Tashi Tshomo_17      | 25   
+Palden Zangpo_19     | 12   
+Tashi Penjor_20      | 28   
+Ap Moenlam_21        | 25   
+Lhatsho Rai_22       | 5    
+Legphel Namgyel_23   | 15   
+Sangay Wangzom_26    | 35   
+Karma Tobgay_27      | 32   
+Tshering Choden_30   | 15   
+Jamyang Tshomo_32    | 39   
+Dechen Yangchen_33   | 43   
+Darshan Pelden_35    | 43   
+Namgay Dorji_38      | 26   
+Tashi Wangzom_40     | 14   
+Bishnu Norbu_43      | 19   
+Palden Norbu_47      | 27   
+Dechen Dupchu_50     | 18   
+Tshering Pelden_51   | 2    
+Dawa Yangden_52      | 4    
+Ap Zangpo_54         | 21   
+Nidup Pem_55         | 17   
+Legphel Phuntsho_57  | 30   
+Pema Namgyel_59      | 2    
+Ap Tobgay_61         | 26   
+Sonam Choden_69      | 28   
+Namgay Tobgay_70     | 27   
+Dawa Norbu_71        | 29   
+Kinley Yangden_72    | 2    
+Palden Zangpo_74     | 15   
+Namgay Choden_76     | 19   
+Tandin Yangden_77    | 35   
+Legphel wanggyel_78  | 18   
+Namgay Dolma_80      | 13   
+Ap Rangdrel_81       | 12   
+Nuchu Rai_82         | 34   
+Nuchu Dupchu_85      | 33   
+Ap Jorden_86         | 42   
+Dechen Namgyel_87    | 13   
+Aum Penjor_88        | 9    
+Palden Zangpo_89     | 14   
+Palden Dupchu_93     | 44   
+Sangay wanggyel_94   | 0    
+Kinley Yangchen_98   | 14   
+Sonam Dolma_100      | 7    
+Rickey Tshomo_101    | 35   
+Chencho wanggyel_103 | 43   
+Dawa Norbu_105       | 12   
+Sonam Jorden_106     | 26   
+Karma Wangchuk_107   | 19   
+Tashi Wangda_108     | 33   
+Namgay Rai_109       | 11   
+Nuchu Jorden_110     | 43   
+Pema Wangzom_111     | 24   
+Ap Jorden_112        | 15   
+Jamyang Wangchuk_113 | 43   
+Tandin Namgay_118    | 24   
+
+Lowest Score(s):
+Lowest Score Table
+Name                 | Score
+------------------------------
+Sangay wanggyel_94   | 0    
+
+Highest Score(s):
+Highest Score Table
+Name                 | Score
+------------------------------
+Sonam Rai_28         | 99   
+
+
+Search Results:
+Linear Search Result:
+
+Name                 | Score
+------------------------------
+Tshering Pelden_75   | 78   
+Aum Wangzom_114      | 78   
+
+Binary Search Result:
+
+Name                 | Score
+------------------------------
+Aum Wangzom_114      | 78   
+Tshering Pelden_75   | 78   
+
