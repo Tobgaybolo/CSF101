@@ -11,22 +11,22 @@ This repository contain a test for a simple library management system, using pyt
 
 The test uses 'unittest' to test the following tests:
 
-# 1.Valid Book Borrowing
+## 1.Valid Book Borrowing
   - Funtionality: Tests that a user can borrow an available book, which updates the book's availability and registers it in both the user's and the library's record.
   
-# 2.Invalid Book Borrowing (Book Already Borrowed)
+## 2.Invalid Book Borrowing (Book Already Borrowed)
   - Functionality: Tests that trying to borrow a book that has already been borrowed outputs an appropriate message indicating its unavailability.
 
-# 3.Valid Book Returning
+## 3.Valid Book Returning
   - Functionality: Test that a user can return a borrowed book, making it available again in the library.
 
-# 4.Invalid Book Returning (Not Borrowed)
+## 4.Invalid Book Returning (Not Borrowed)
   - Functionality: Verifies thst attempting to return a book that hasn't been borrowed prompts an appropriate message.
 
-# 5.Admin Adding Books
+## 5.Admin Adding Books
   - Functionality: Ensures that an admin can add new books to the library, which increases the total count of available books.
 
-# 6.Boundary and Edge Cases
+## 6.Boundary and Edge Cases
   - All Books Borrowed: Tests the case where all books in the library are borrowed, ensuring none are left available.
   - Returning Nonexistent Book: Checkes if the system correctly handles an attempt to return a book that does not exist in the library.
   - Returning an Unborrowed Book: Verifies that the system prompts a correct response when trying to return a book the user never borrowed.
